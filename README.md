@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrNobodyGJH
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI&ML
-- 📫 How to reach me @mrnobodygjhwork@gmail.com
+- 📫 How to reach me at mrnobodygjhwork@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
