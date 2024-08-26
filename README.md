@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrNobodyGJH
+- 👋 Hi, I’m Mr.Nobody
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI&ML
 - 📫 How to reach me at mrnobodygjhwork@gmail.com
